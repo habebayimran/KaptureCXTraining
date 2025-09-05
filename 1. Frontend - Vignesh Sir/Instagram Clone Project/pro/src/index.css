@@ -1,0 +1,58 @@
+.w-20{
+    width: 20%;
+}
+.w-30{
+    width: 30%;
+}
+.logo-text{
+    width: 100px;
+}
+.story{
+    height: 70px;
+    padding: 10px;
+}
+.dp{
+    height: 30px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.suggestions {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.suggestions h6 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.suggestions small {
+  font-size: 12px;
+}
+
+.suggestions .dp {
+  margin-top: 0 !important;
+  border: 1px solid #ddd;
+}
+
+.suggestions .text-primary {
+  font-size: 13px;
+}
+
+.suggestions p {
+  font-size: 13px;
+  margin: 0;
+}
+.gradient-border{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+}
+.story-dp{
+    width: 40px;
+}

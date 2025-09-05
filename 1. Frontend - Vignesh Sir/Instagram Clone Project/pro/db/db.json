@@ -1,0 +1,177 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "imran",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      },
+      "image": "https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-beach-free-image-after-sunset-sky-free-photo.jpeg?w=2210&quality=70",
+      "caption": "Beautiful sunset✨",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "haashini",
+        "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
+      },
+      "image": "https://images.pexels.com/photos/127513/pexels-photo-127513.jpeg",
+      "caption": "Exploring mountains🏔️",
+      "likes": 340,
+      "comments": [
+        {
+          "user": "johnny_b",
+          "comment": "Looks cold but amazing!"
+        },
+        {
+          "user": "clara_lens",
+          "comment": "Nature at its finest!"
+        }
+      ],
+      "timestamp": "2025-03-02T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "leo",
+        "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
+      },
+      "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg",
+      "caption": "Best pasta ever had🍝",
+      "likes": 215,
+      "comments": [
+        {
+          "user": "tina_cook",
+          "comment": "Recipe please 😍"
+        },
+        {
+          "user": "chef_dan",
+          "comment": "That looks restaurant-quality!"
+        }
+      ],
+      "timestamp": "2025-03-10T18:45:00Z"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "abe",
+        "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
+      },
+      "image": "https://images.pexels.com/photos/1034657/pexels-photo-1034657.jpeg",
+      "caption": "Latest painting 🎨",
+      "likes": 520,
+      "comments": [
+        {
+          "user": "artlover_21",
+          "comment": "This is stunning!"
+        },
+        {
+          "user": "mike_draws",
+          "comment": "So much detail, wow!"
+        }
+      ],
+      "timestamp": "2025-04-01T12:00:00Z"
+    }
+  ],
+  "profile":{
+    "id": 101,
+    "username": "habebay_imran",
+    "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+  },
+  "suggestions":[
+    {
+        "id": 101,
+        "username": "sophia",
+        "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+        "id": 102,
+        "username": "imran",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+    },
+    {
+        "id": 103,
+        "username": "artist",
+        "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
+    },
+    {
+        "id": 104,
+        "username": "rahul",
+        "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    {
+        "id": 105,
+        "username": "travels",
+        "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
+    },
+    {
+        "id": 106,
+        "username": "habebay",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+    },
+    {
+        "id": 107,
+        "username": "jane",
+        "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
+    },
+    {
+        "id": 108,
+        "username": "foodie",
+        "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
+    }
+  ],
+  "stories":[
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "imran",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      },
+      "image": "https://i.pinimg.com/736x/40/a4/92/40a492b0a148eeafeded44e958edc958.jpg"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "haashini",
+        "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
+      },
+      "image": "https://i.pinimg.com/736x/9a/60/fe/9a60fe85f89830ff3028482f10d942ef.jpg"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "leo",
+        "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
+      },
+      "image": "https://i.pinimg.com/736x/c2/c9/30/c2c9302fb15af15861b0c6dbb087e408.jpg"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "abe",
+        "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
+      },
+      "image": "https://i.pinimg.com/736x/94/7b/e2/947be2d2ce2ec3ca874575451ea184ec.jpg"
+    }
+  ]
+}

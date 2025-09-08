@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "user": {
         "id": 101,
         "username": "imran",
@@ -23,7 +23,7 @@
       "timestamp": "2025-02-11T14:30:00Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": {
         "id": 102,
         "username": "haashini",
@@ -45,7 +45,7 @@
       "timestamp": "2025-03-02T09:15:00Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": {
         "id": 103,
         "username": "leo",
@@ -67,7 +67,7 @@
       "timestamp": "2025-03-10T18:45:00Z"
     },
     {
-      "id": 4,
+      "id": "4",
       "user": {
         "id": 104,
         "username": "abe",
@@ -89,56 +89,56 @@
       "timestamp": "2025-04-01T12:00:00Z"
     }
   ],
-  "profile":{
+  "profile": {
     "id": 101,
     "username": "habebay_imran",
     "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
   },
-  "suggestions":[
+  "suggestions": [
     {
-        "id": 101,
-        "username": "sophia",
-        "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
+      "id": "101",
+      "username": "sophia",
+      "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
     },
     {
-        "id": 102,
-        "username": "imran",
-        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      "id": "102",
+      "username": "imran",
+      "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
     },
     {
-        "id": 103,
-        "username": "artist",
-        "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
+      "id": "103",
+      "username": "artist",
+      "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
     },
     {
-        "id": 104,
-        "username": "rahul",
-        "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
+      "id": "104",
+      "username": "rahul",
+      "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
     },
     {
-        "id": 105,
-        "username": "travels",
-        "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
+      "id": "105",
+      "username": "travels",
+      "profile_pic": "https://randomuser.me/api/portraits/women/45.jpg"
     },
     {
-        "id": 106,
-        "username": "habebay",
-        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      "id": "106",
+      "username": "habebay",
+      "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
     },
     {
-        "id": 107,
-        "username": "jane",
-        "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
+      "id": "107",
+      "username": "jane",
+      "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
     },
     {
-        "id": 108,
-        "username": "foodie",
-        "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
+      "id": "108",
+      "username": "foodie",
+      "profile_pic": "https://randomuser.me/api/portraits/men/76.jpg"
     }
   ],
-  "stories":[
+  "stories": [
     {
-      "id": 1,
+      "id": "1",
       "user": {
         "id": 101,
         "username": "imran",
@@ -147,7 +147,7 @@
       "image": "https://i.pinimg.com/736x/40/a4/92/40a492b0a148eeafeded44e958edc958.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": {
         "id": 102,
         "username": "haashini",
@@ -156,7 +156,7 @@
       "image": "https://i.pinimg.com/736x/9a/60/fe/9a60fe85f89830ff3028482f10d942ef.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": {
         "id": 103,
         "username": "leo",
@@ -165,13 +165,70 @@
       "image": "https://i.pinimg.com/736x/c2/c9/30/c2c9302fb15af15861b0c6dbb087e408.jpg"
     },
     {
-      "id": 4,
+      "id": "4",
       "user": {
         "id": 104,
         "username": "abe",
         "profile_pic": "https://randomuser.me/api/portraits/women/32.jpg"
       },
       "image": "https://i.pinimg.com/736x/94/7b/e2/947be2d2ce2ec3ca874575451ea184ec.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "user": {
+        "id": 2,
+        "username": "haashini",
+        "profile_pic": "https://randomuser.me/api/portraits/women/65.jpg"
+      },
+      "text": "Awesome photo!",
+      "timestamp": "2025-09-07T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "user": {
+        "id": 3,
+        "username": "leo",
+        "profile_pic": "https://randomuser.me/api/portraits/men/75.jpg"
+      },
+      "text": "Nice view 🌅",
+      "timestamp": "2025-09-07T11:00:00Z"
+    },
+    {
+      "id": "fa83",
+      "postId": "1",
+      "user": {
+        "id": 101,
+        "username": "habebay_imran",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      },
+      "text": "nice",
+      "timestamp": "2025-09-06T20:13:41.236Z"
+    },
+    {
+      "id": "0e5c",
+      "postId": "2",
+      "user": {
+        "id": 101,
+        "username": "habebay_imran",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      },
+      "text": "good",
+      "timestamp": "2025-09-06T20:13:57.640Z"
+    },
+    {
+      "id": "15a6",
+      "postId": "3",
+      "user": {
+        "id": 101,
+        "username": "habebay_imran",
+        "profile_pic": "https://media.licdn.com/dms/image/v2/D5603AQGhmr3D_iAY1g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707780057025?e=2147483647&v=beta&t=vNmlPMzOmuvpsMrJJnnTX_zegQxDgrYOC8SzottYORM"
+      },
+      "text": "Great Food",
+      "timestamp": "2025-09-08T05:05:35.287Z"
     }
   ]
 }

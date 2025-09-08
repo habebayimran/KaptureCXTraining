@@ -3,6 +3,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './index.css';
 import App from './App';
 import ViewStory from './ViewStory';
+import { AppProvider } from './Context';
 
 const router = createBrowserRouter(
     [
@@ -17,4 +18,8 @@ const router = createBrowserRouter(
     ]
 )
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<RouterProvider router={router} />);
+root.render(
+  <AppProvider>
+    <RouterProvider router={router} />
+  </AppProvider>
+);
